@@ -137,7 +137,11 @@ mnist-handwritten-digit-classification/
 ├── MNIST_Handwritten_Digit_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── .gitignore
+├── mnist_samples.png
+├── training_history.png
+├── confusion_matrix.png
+└── predictions.png
 ```
 
 ## 🎯 Key Learnings
