@@ -176,3 +176,19 @@ Through this project, I explored:
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+
+---
+
+## 📸 Project Results
+
+### 1. Sample Handwritten Digits
+![MNIST Samples](mnist_samples.png)
+
+### 2. Model Training Performance
+![Training History](training_history.png)
+
+### 3. Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### 4. Digit Prediction Results
+![Predictions](predictions.png)
